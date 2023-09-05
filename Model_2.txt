@@ -1,0 +1,2 @@
+(Name) lanser 	 (ID) 1 	 (Color) red 	 (Price) 230000
+(Name) BMW 	 (ID) 2 	 (Color) black 	 (Price) 1200000

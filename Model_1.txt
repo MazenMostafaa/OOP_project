@@ -1,0 +1,2 @@
+(Name) kia 	 (ID) 1 	 (Color) black 	 (Price) 300000
+(Name) nessan 	 (ID) 2 	 (Color) white 	 (Price) 150000

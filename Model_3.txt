@@ -1,0 +1,3 @@
+(Name) toyota 	 (ID) 1 	 (Color) light blue 	 (Price) 450000
+(Name) reon 	 (ID) 3 	 (Color) yellow 	 (Price) 400000
+(Name) Marcedes 	 (ID) 2 	 (Color) dark red 	 (Price) 1500000
